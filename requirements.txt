@@ -1,0 +1,10 @@
+# ImageSense Analyzer - Required Python Packages
+
+# Core dependencies
+openai>=1.0.0
+pandas>=2.0.0
+pillow>=10.0.0
+tkinterdnd2>=0.3.0
+
+# Optional but recommended
+python-dotenv>=1.0.0
